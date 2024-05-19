@@ -1,5 +1,5 @@
 # TCOAAL-Delocalizator
-To run 'TCOAAL' on any other platform than Windows you need to decrypt it using IelmenDecryptor. But it still will error about missing localization since you also need to insert phrases from localization file into Map****.json files. 
+To run 'TCOAAL' on any other platform than Windows (for example on Android) you need to decrypt it using IelmenDecryptor. But it still will error about missing localization since you also need to insert phrases from localization file into Map****.json files. 
 
 So, this script will do it for you.
 To run it you need to:
